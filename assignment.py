@@ -13,6 +13,7 @@ VTK_DATA_ROOT = vtkGetDataRoot()
 # draws into the render window, the interactor enables mouse- and
 # keyboard-based interaction with the scene.
 ren = vtk.vtkRenderer()
+i = 5
 renWin = vtk.vtkRenderWindow()
 renWin.AddRenderer(ren)
 iren = vtk.vtkRenderWindowInteractor()
