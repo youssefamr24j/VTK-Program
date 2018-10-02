@@ -2,4 +2,4 @@
 
 This is the skull from my program 
 
-![]("skull.png")
+![]("skull.PNG")
